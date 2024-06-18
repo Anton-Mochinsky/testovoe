@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore Docker related files
+docker-compose.yml
+.DS_Store
+
+# Ignore database files
+db.sqlite3
+
+# Ignore log files
+*.log
